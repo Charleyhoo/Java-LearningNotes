@@ -1,0 +1,6 @@
+Spring:
+  Version: 2.6.11
+  name: nishigepi
+  banner:
+    location: banner.txt
+
