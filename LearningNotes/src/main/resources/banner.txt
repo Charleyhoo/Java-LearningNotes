@@ -12,7 +12,8 @@ ${AnsiColor.BRIGHT_BLUE}       ## hh                hh ##       \|_______| \|__|
 ${AnsiColor.BRIGHT_BLUE}       ## MMMMMMMMMMMMMMMMMMMM ##
 ${AnsiColor.BRIGHT_BLUE}       ##MMMMMMMMMMMMMMMMMMMMMM##                                          Release undefined@no release yet
 ${AnsiColor.BRIGHT_BLUE}            \/            \/                                       Powered by @bilibili/jinkela-core@2.8.11
-Welcome to ${application.name}! Version: ${application.version}
+
+Welcome to ${application.name}! Version: {spring-boot.version}：
 
 
 
